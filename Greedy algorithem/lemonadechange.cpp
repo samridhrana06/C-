@@ -1,3 +1,6 @@
+#include<bits/stdc++.h>
+using namespace std;
+
 bool lemonadeChange(vector<int> &bill) {
 	// Write your code here.
 	int billcounter=0;
